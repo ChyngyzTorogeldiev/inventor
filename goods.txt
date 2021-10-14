@@ -2,4 +2,6 @@ Mouse
 Keyboard
 LapTop
 Micrafone
-Клавиатура
+КлавиатураФлаг
+Флаг
+Рюкзак 
